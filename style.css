@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #343434;
+  background-color: rgb(255, 246, 246);
   /* Will align everything horizontally */
   display: flex;
   /* Will align everything vertically */
@@ -22,7 +22,7 @@ body {
 }
 
 h1 {
-  color: var(--primary-color);
+  color: #343434;
 }
 
 p {
